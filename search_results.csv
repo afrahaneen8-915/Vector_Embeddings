@@ -1,0 +1,121 @@
+Query,Rank,Document_ID,Retrieved_Document,Distance
+What is artificial intelligence in education?,1,doc1,"Artificial Intelligence in Education
+
+Artificial Intelligence (AI) helps teachers and students in learning activities. AI-powered tools can explain difficult topics, answer questions, and provide practice exercises. Teachers can use AI to prepare learning materials and identify areas where students need additional support. AI supports the learning process and makes education more interactive.
+",0.46149492263793945
+What is artificial intelligence in education?,2,doc10,"Future of Artificial Intelligence in Education
+
+Artificial Intelligence is expected to play an important role in the future of education. AI-powered learning platforms can provide personalized lessons, interactive exercises, and instant learning support. Virtual assistants and intelligent tutoring systems may help students access educational resources more easily. By combining AI technology with human teaching, education can become more flexible and effective.
+",0.6761602163314819
+What is artificial intelligence in education?,3,doc3,"AI-Based Intelligent Tutoring Systems
+
+Intelligent tutoring systems use Artificial Intelligence to support students during learning. These systems provide explanations, examples, and practice questions based on the learning topic. They can give instant feedback and help students understand difficult concepts. AI tutors are useful for additional practice, but teachers continue to provide important guidance and support.
+",0.8229126334190369
+How does AI help students learn?,1,doc1,"Artificial Intelligence in Education
+
+Artificial Intelligence (AI) helps teachers and students in learning activities. AI-powered tools can explain difficult topics, answer questions, and provide practice exercises. Teachers can use AI to prepare learning materials and identify areas where students need additional support. AI supports the learning process and makes education more interactive.
+",0.4815080165863037
+How does AI help students learn?,2,doc3,"AI-Based Intelligent Tutoring Systems
+
+Intelligent tutoring systems use Artificial Intelligence to support students during learning. These systems provide explanations, examples, and practice questions based on the learning topic. They can give instant feedback and help students understand difficult concepts. AI tutors are useful for additional practice, but teachers continue to provide important guidance and support.
+",0.588772714138031
+How does AI help students learn?,3,doc2,"Personalized Learning Using AI
+
+Personalized learning is one of the important applications of AI in education. AI systems can understand a student's learning progress and provide suitable learning materials. Students can learn at their own pace through customized lessons, exercises, and recommendations. This helps students focus on topics they find difficult and improves their learning experience.
+",0.6209039688110352
+What are intelligent tutoring systems?,1,doc3,"AI-Based Intelligent Tutoring Systems
+
+Intelligent tutoring systems use Artificial Intelligence to support students during learning. These systems provide explanations, examples, and practice questions based on the learning topic. They can give instant feedback and help students understand difficult concepts. AI tutors are useful for additional practice, but teachers continue to provide important guidance and support.
+",0.4281744658946991
+What are intelligent tutoring systems?,2,doc10,"Future of Artificial Intelligence in Education
+
+Artificial Intelligence is expected to play an important role in the future of education. AI-powered learning platforms can provide personalized lessons, interactive exercises, and instant learning support. Virtual assistants and intelligent tutoring systems may help students access educational resources more easily. By combining AI technology with human teaching, education can become more flexible and effective.
+",0.8464148044586182
+What are intelligent tutoring systems?,3,doc4,"Automated Assessment and Feedback Using AI
+
+AI helps teachers evaluate student assignments and quizzes. Automated assessment tools can check objective answers and provide quick feedback. Some AI systems can also identify common mistakes and suggest learning resources. This saves time for teachers and helps students understand their performance. Human review is still important for fair and accurate evaluation.
+",0.915149986743927
+How does AI automate assessment?,1,doc4,"Automated Assessment and Feedback Using AI
+
+AI helps teachers evaluate student assignments and quizzes. Automated assessment tools can check objective answers and provide quick feedback. Some AI systems can also identify common mistakes and suggest learning resources. This saves time for teachers and helps students understand their performance. Human review is still important for fair and accurate evaluation.
+",0.4007258415222168
+How does AI automate assessment?,2,doc1,"Artificial Intelligence in Education
+
+Artificial Intelligence (AI) helps teachers and students in learning activities. AI-powered tools can explain difficult topics, answer questions, and provide practice exercises. Teachers can use AI to prepare learning materials and identify areas where students need additional support. AI supports the learning process and makes education more interactive.
+",0.8333793878555298
+How does AI automate assessment?,3,doc3,"AI-Based Intelligent Tutoring Systems
+
+Intelligent tutoring systems use Artificial Intelligence to support students during learning. These systems provide explanations, examples, and practice questions based on the learning topic. They can give instant feedback and help students understand difficult concepts. AI tutors are useful for additional practice, but teachers continue to provide important guidance and support.
+",0.9193714261054993
+What is learning analytics?,1,doc5,"Learning Analytics in Education
+
+Learning analytics uses data to understand student learning activities and progress. AI can analyse information such as quiz scores, assignment results, and learning patterns. These insights help teachers identify topics where students may need extra support. Learning analytics can improve teaching methods and help educational institutions make better academic decisions.
+",0.47230756282806396
+What is learning analytics?,2,doc2,"Personalized Learning Using AI
+
+Personalized learning is one of the important applications of AI in education. AI systems can understand a student's learning progress and provide suitable learning materials. Students can learn at their own pace through customized lessons, exercises, and recommendations. This helps students focus on topics they find difficult and improves their learning experience.
+",1.1141425371170044
+What is learning analytics?,3,doc8,"Smart Classrooms and Artificial Intelligence
+
+Smart classrooms use digital technologies and AI tools to improve teaching and learning. Interactive displays, virtual learning platforms, and AI-powered applications help teachers present lessons in engaging ways. Students can access digital resources, participate in activities, and learn through multimedia content. Smart classrooms create a technology-supported learning environment.
+",1.2014386653900146
+How do AI chatbots support students?,1,doc6,"AI Chatbots for Student Support
+
+AI chatbots are digital assistants that communicate with students through text. They can answer common academic questions, explain concepts, and provide information about courses and assignments. Students can use chatbots to get learning support at any time. However, important academic decisions and complex doubts should also be discussed with teachers.
+",0.24179492890834808
+How do AI chatbots support students?,2,doc3,"AI-Based Intelligent Tutoring Systems
+
+Intelligent tutoring systems use Artificial Intelligence to support students during learning. These systems provide explanations, examples, and practice questions based on the learning topic. They can give instant feedback and help students understand difficult concepts. AI tutors are useful for additional practice, but teachers continue to provide important guidance and support.
+",0.7759208083152771
+How do AI chatbots support students?,3,doc1,"Artificial Intelligence in Education
+
+Artificial Intelligence (AI) helps teachers and students in learning activities. AI-powered tools can explain difficult topics, answer questions, and provide practice exercises. Teachers can use AI to prepare learning materials and identify areas where students need additional support. AI supports the learning process and makes education more interactive.
+",0.8292319774627686
+How does AI help students with disabilities?,1,doc1,"Artificial Intelligence in Education
+
+Artificial Intelligence (AI) helps teachers and students in learning activities. AI-powered tools can explain difficult topics, answer questions, and provide practice exercises. Teachers can use AI to prepare learning materials and identify areas where students need additional support. AI supports the learning process and makes education more interactive.
+",0.7179006338119507
+How does AI help students with disabilities?,2,doc7,"Accessibility and Inclusive Learning with AI
+
+AI tools can make education more accessible to students with different learning needs. Speech-to-text tools convert spoken words into written text, while text-to-speech tools read digital content aloud. Translation tools can help students understand learning materials in different languages. These technologies support inclusive education and create more opportunities for students to learn.
+",0.7609419822692871
+How does AI help students with disabilities?,3,doc3,"AI-Based Intelligent Tutoring Systems
+
+Intelligent tutoring systems use Artificial Intelligence to support students during learning. These systems provide explanations, examples, and practice questions based on the learning topic. They can give instant feedback and help students understand difficult concepts. AI tutors are useful for additional practice, but teachers continue to provide important guidance and support.
+",0.7962608933448792
+What are smart classrooms?,1,doc8,"Smart Classrooms and Artificial Intelligence
+
+Smart classrooms use digital technologies and AI tools to improve teaching and learning. Interactive displays, virtual learning platforms, and AI-powered applications help teachers present lessons in engaging ways. Students can access digital resources, participate in activities, and learn through multimedia content. Smart classrooms create a technology-supported learning environment.
+",0.6527831554412842
+What are smart classrooms?,2,doc1,"Artificial Intelligence in Education
+
+Artificial Intelligence (AI) helps teachers and students in learning activities. AI-powered tools can explain difficult topics, answer questions, and provide practice exercises. Teachers can use AI to prepare learning materials and identify areas where students need additional support. AI supports the learning process and makes education more interactive.
+",1.2156469821929932
+What are smart classrooms?,3,doc10,"Future of Artificial Intelligence in Education
+
+Artificial Intelligence is expected to play an important role in the future of education. AI-powered learning platforms can provide personalized lessons, interactive exercises, and instant learning support. Virtual assistants and intelligent tutoring systems may help students access educational resources more easily. By combining AI technology with human teaching, education can become more flexible and effective.
+",1.216454267501831
+What are the ethical concerns of AI in education?,1,doc9,"Responsible Use of AI in Education
+
+AI in education should be used responsibly and carefully. Student information must be protected, and personal data should not be shared without permission. AI systems may sometimes produce incorrect or biased results. Teachers and educational institutions should check AI-generated information and ensure that technology is used fairly and transparently.
+",0.5647118091583252
+What are the ethical concerns of AI in education?,2,doc1,"Artificial Intelligence in Education
+
+Artificial Intelligence (AI) helps teachers and students in learning activities. AI-powered tools can explain difficult topics, answer questions, and provide practice exercises. Teachers can use AI to prepare learning materials and identify areas where students need additional support. AI supports the learning process and makes education more interactive.
+",0.7741707563400269
+What are the ethical concerns of AI in education?,3,doc10,"Future of Artificial Intelligence in Education
+
+Artificial Intelligence is expected to play an important role in the future of education. AI-powered learning platforms can provide personalized lessons, interactive exercises, and instant learning support. Virtual assistants and intelligent tutoring systems may help students access educational resources more easily. By combining AI technology with human teaching, education can become more flexible and effective.
+",0.9210340976715088
+What is the future of AI in education?,1,doc10,"Future of Artificial Intelligence in Education
+
+Artificial Intelligence is expected to play an important role in the future of education. AI-powered learning platforms can provide personalized lessons, interactive exercises, and instant learning support. Virtual assistants and intelligent tutoring systems may help students access educational resources more easily. By combining AI technology with human teaching, education can become more flexible and effective.
+",0.6245550513267517
+What is the future of AI in education?,2,doc1,"Artificial Intelligence in Education
+
+Artificial Intelligence (AI) helps teachers and students in learning activities. AI-powered tools can explain difficult topics, answer questions, and provide practice exercises. Teachers can use AI to prepare learning materials and identify areas where students need additional support. AI supports the learning process and makes education more interactive.
+",0.7184076905250549
+What is the future of AI in education?,3,doc9,"Responsible Use of AI in Education
+
+AI in education should be used responsibly and carefully. Student information must be protected, and personal data should not be shared without permission. AI systems may sometimes produce incorrect or biased results. Teachers and educational institutions should check AI-generated information and ensure that technology is used fairly and transparently.
+",0.8230065703392029
